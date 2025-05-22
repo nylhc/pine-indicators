@@ -1,4 +1,6 @@
 ## pine-indicators
+[English](README.md) | [中文](README.zh.md)
+
 In TradingView or technical analysis, indicators can generally be categorized based on their function and purpose into the following types. 
 
 ## 📊 1. **Trend Indicators**
