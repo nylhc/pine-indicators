@@ -1,5 +1,7 @@
 
 ## pine-indicators
+[English](README.md) | [中文](README.zh.md)  
+
 在 TradingView 或技术分析中，指标（Indicators）大致可以根据功能和用途划分为以下几类。 
 
 ## 📊 1. **趋势类指标（Trend Indicators）**
